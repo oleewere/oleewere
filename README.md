@@ -1,4 +1,6 @@
-Hi there!
+<b>Hi there!</b>
+
+![](https://komarev.com/ghpvc/?username=oleewere)
 
 ![Oleewere's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleewere&theme=default&show_icons=true)
 
